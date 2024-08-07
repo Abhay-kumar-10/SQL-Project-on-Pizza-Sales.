@@ -21,7 +21,7 @@ The analysis questions tackled in this project include:
 
 **SQL_QUERIES_PDF**
 [SQL project Pizza Sales.pdf](https://github.com/user-attachments/files/16522877/SQL.project.Pizza.Sales.pdf)
-
+![Dark Orange Modern Simple Pizza Sales Graph](https://github.com/user-attachments/assets/0ffc8f7d-6586-4c1f-818c-16d1159264d7)
 
 Conclusion:
 
