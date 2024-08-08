@@ -21,6 +21,7 @@ The analysis questions tackled in this project include:
 
 **SQL_QUERIES_PDF**
 [SQL Sales Report Business Presentation.pdf](https://github.com/user-attachments/files/16553596/SQL.Sales.Report.Business.Presentation.pdf)
+![image](https://github.com/user-attachments/assets/509b2a08-a5fa-48cc-be1a-f138a4570122)
 
 
 
